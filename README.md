@@ -1,7 +1,7 @@
 ## React Todo
 
 ```sh
-$ https://github.com/guptahardik17/React-Todo.git
+$ git clone https://github.com/guptahardik17/React-Todo.git
 ```
 ```sh
 $ cd React-Todo
